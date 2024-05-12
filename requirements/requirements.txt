@@ -1,0 +1,4 @@
+requests
+pandas
+fuzzywuzzy
+google-generativeai

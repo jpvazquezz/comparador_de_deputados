@@ -55,7 +55,7 @@ Contribuições são encorajadas! Sinta-se à vontade para abrir issues, reporta
 Com este projeto, você poderá mergulhar no mundo das proposições legislativas, desvendando as nuances e diferenças entre os deputados!
 
 ## Autor
-Meu nome é João Pedro Vazquez, sou cientista de dados e entrega soluções de dados de excelência com o objetivo de resolver problemas reais de negócio. Fique à vontade para entrar em contato!
+Meu nome é João Pedro Vazquez, sou cientista de dados e entrego soluções de dados de excelência com o objetivo de resolver problemas reais de negócio. Fique à vontade para entrar em contato!
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jpvazquezz.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-vazquez/)
