@@ -46,10 +46,10 @@ class ComparadorDeDeputados():
 
         print('Favor digitar nome e sobrenome')
         dep1 = input('Selecione o primeiro deputado: ')
-        print('Deputado(a): ', dep1)
+        #print('Deputado(a): ', dep1)
         self.dep1 = dep1
         dep2 = input('Selecione o segundo deputado: ')
-        print('Deputado(a): ', dep2)
+        #print('Deputado(a): ', dep2)
         self.dep2 = dep2
 
     def listagemDeputados(self) -> None:
@@ -172,7 +172,7 @@ class ComparadorDeDeputados():
         **Ementas do Deputado {self.deputado_encontrado2}:**
         {ementas_deputado2}
 
-        **Solicitações:**
+        **Solicitações:*
 
         1. Identifique os principais temas abordados por cada deputado.
         2. Compare a similaridade entre os temas abordados pelos dois deputados.
@@ -184,7 +184,7 @@ class ComparadorDeDeputados():
         response = model.generate_content(prompt, stream=True)
         response.resolve()
         # A aprimorar
-        return self.to_markdown(response.text)
+        return print(response.text)
     
 if __name__ == '__main__':
     comp = ComparadorDeDeputados()
