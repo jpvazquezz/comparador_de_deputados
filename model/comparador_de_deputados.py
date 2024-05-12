@@ -37,7 +37,7 @@ class ComparadorDeDeputados():
         self.deputadoID2 = None
         self.df_props1 = None
         self.df_props2 = None
-        self.api_key = 'AIzaSyCkgERsCShOpe9bVdiaiunDLHU3Yyjah68'
+        self.api_key = 'YOUR_API_KEY'
 
 
     def escolherDeputados(self) -> None:
