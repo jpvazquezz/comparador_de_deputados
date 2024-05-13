@@ -32,7 +32,7 @@ Este código visa:
 ## Como Executar:
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu_usuario/comparador-deputados.git
+   git clone https://github.com/seu_usuario/comparador_de_deputados.git
    ```
 2. Instale as dependências:
    ```
